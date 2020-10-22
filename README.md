@@ -3,7 +3,7 @@ Project Conncept
 
 In my spare time, I'm working on a layer 4 app for Caddy that I call *Project Conncept*. It routes raw TCP/UDP streams using composable handlers, much like how Caddy's HTTP server is configured.
 
-When I started working on this, it was available only to sponsors, but now it is available generally:
+When I started working on this, it was available only to sponsors, but now it is available to the public:
 
 ### Click here for the code: https://github.com/mholt/caddy-l4
 
